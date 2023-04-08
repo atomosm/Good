@@ -2,8 +2,8 @@ import glob
 import json
 
 
-CHAIN_ID = 'flixnet-2'
-PREV_CHAIN_ID = 'flixnet-1'
+CHAIN_ID = 'your chainID'
+PREV_CHAIN_ID = 'your chainID'
 gentx_files = glob.glob(f'./{CHAIN_ID}/gentxs/*.json')
 
 if len(gentx_files) != 1:
