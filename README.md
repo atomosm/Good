@@ -2,4 +2,4 @@
 
 Some my script here:
 1. Users checker
-2.
+2. Sync issue
